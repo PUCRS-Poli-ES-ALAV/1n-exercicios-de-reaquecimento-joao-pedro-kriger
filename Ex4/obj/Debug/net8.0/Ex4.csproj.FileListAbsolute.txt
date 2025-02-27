@@ -1,0 +1,15 @@
+/workspaces/1n-exercicios-de-reaquecimento-joao-pedro-kriger/Ex4/bin/Debug/net8.0/Ex4
+/workspaces/1n-exercicios-de-reaquecimento-joao-pedro-kriger/Ex4/bin/Debug/net8.0/Ex4.deps.json
+/workspaces/1n-exercicios-de-reaquecimento-joao-pedro-kriger/Ex4/bin/Debug/net8.0/Ex4.runtimeconfig.json
+/workspaces/1n-exercicios-de-reaquecimento-joao-pedro-kriger/Ex4/bin/Debug/net8.0/Ex4.dll
+/workspaces/1n-exercicios-de-reaquecimento-joao-pedro-kriger/Ex4/bin/Debug/net8.0/Ex4.pdb
+/workspaces/1n-exercicios-de-reaquecimento-joao-pedro-kriger/Ex4/obj/Debug/net8.0/Ex4.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/1n-exercicios-de-reaquecimento-joao-pedro-kriger/Ex4/obj/Debug/net8.0/Ex4.AssemblyInfoInputs.cache
+/workspaces/1n-exercicios-de-reaquecimento-joao-pedro-kriger/Ex4/obj/Debug/net8.0/Ex4.AssemblyInfo.cs
+/workspaces/1n-exercicios-de-reaquecimento-joao-pedro-kriger/Ex4/obj/Debug/net8.0/Ex4.csproj.CoreCompileInputs.cache
+/workspaces/1n-exercicios-de-reaquecimento-joao-pedro-kriger/Ex4/obj/Debug/net8.0/Ex4.sourcelink.json
+/workspaces/1n-exercicios-de-reaquecimento-joao-pedro-kriger/Ex4/obj/Debug/net8.0/Ex4.dll
+/workspaces/1n-exercicios-de-reaquecimento-joao-pedro-kriger/Ex4/obj/Debug/net8.0/refint/Ex4.dll
+/workspaces/1n-exercicios-de-reaquecimento-joao-pedro-kriger/Ex4/obj/Debug/net8.0/Ex4.pdb
+/workspaces/1n-exercicios-de-reaquecimento-joao-pedro-kriger/Ex4/obj/Debug/net8.0/Ex4.genruntimeconfig.cache
+/workspaces/1n-exercicios-de-reaquecimento-joao-pedro-kriger/Ex4/obj/Debug/net8.0/ref/Ex4.dll
